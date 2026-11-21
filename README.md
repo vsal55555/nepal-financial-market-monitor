@@ -114,15 +114,15 @@ Gold/Silver Thread             NEPSE Thread
                        ▼
 
                 Stock Thread
-
+                       │
                        ▼
 
                Stock Scraper
-
+                       │
                        ▼
 
                Data Storage
-
+                       │
                        ▼
 
             Financial Dashboard
